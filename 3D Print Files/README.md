@@ -1,6 +1,8 @@
 # Sixfab Pico LTE Enclosure
 An enclosure for the Sixfab Pico LTE and a couple of Sparkfun Qwiic sensor boards.
 
+![Alt text](Sixfab%20Pico%20LTE%20Body%20and%20Lid%20with%20Boards.jpg)
+
 I wanted to put my Sixfab Pico LTE into an enclosure with a couple of SParkfun Qwiic
 boards, and was learning FUsion, and created this enclosure.  It's a small flat
 enclosure to hold the Pico LTE, and has two mounting areas for the larger SParkfun
