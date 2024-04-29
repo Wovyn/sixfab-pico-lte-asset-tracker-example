@@ -1,5 +1,5 @@
 # sixfab-pico-lte-asset-tracker-example
-This is a simple example for using the Sixfab Pico LTE as an asset tracker.
+This is a simple Arduino example for using the Sixfab Pico LTE as an asset tracker.
 
 The sketch is using the following libraries that will have to be installed:
 
