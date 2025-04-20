@@ -13,6 +13,6 @@ The top cover has 2mm x 2mm square holes for 3 Bivar PLPQ2-375 Light Pipes.
 The screws that I used to secure the boards were from some OKW Enclosures that I
 also use.  You can find them here: https://www.okwenclosures.com/en/Screws/A0304031.htm
 
-TODO:
+## TODO:
 
 - Replace the top cover screw with a beveled screw to make it flush
